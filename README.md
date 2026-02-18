@@ -1,4 +1,7 @@
 # Hi 👋, I'm Deepak
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak007bgd&show_icons=true&theme=tokyonight)
+
 
 💻 Computer Science Student from Chennai  
 🚀 Passionate about Backend Development  
